@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Undo",
+  "base_artist": "Björk",
+  "createdAt": "2026-02-14T19:05:22.328234Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Undo It",
+      "artist": "Carrie Underwood",
+      "has_synced": true,
+      "path": "select/01_Undo_It_Carrie_Underwood.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "UNDO REDO",
+      "artist": "Moderat",
+      "has_synced": true,
+      "path": "select/02_UNDO_REDO_Moderat.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Undo (Back To My Heart)",
+      "artist": "Tinashe feat. Wax Motif",
+      "has_synced": true,
+      "path": "select/03_Undo_(Back_To_My_Heart)_Tinashe_feat._Wax_Motif.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Undo (Back To My Heart)",
+      "artist": "Tinashe",
+      "has_synced": true,
+      "path": "select/04_Undo_(Back_To_My_Heart)_Tinashe.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Never Undo",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/05_Never_Undo_Morcheeba.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Undo",
+      "artist": "Transviolet",
+      "has_synced": true,
+      "path": "select/06_Undo_Transviolet.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Undo",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/07_Undo_Björk.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Undo Control",
+      "artist": "Dark Tranquillity",
+      "has_synced": true,
+      "path": "select/08_Undo_Control_Dark_Tranquillity.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Undo",
+      "artist": "The 1975",
+      "has_synced": true,
+      "path": "select/09_Undo_The_1975.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Undo",
+      "artist": "The 1975",
+      "has_synced": true,
+      "path": "select/10_Undo_The_1975.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Undo (Instrumental)",
+      "artist": "RL Grime",
+      "has_synced": false,
+      "path": "select/11_Undo_(Instrumental)_RL_Grime.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Undo",
+      "artist": "RL Grime feat. Jeremih & Tory Lanez",
+      "has_synced": true,
+      "path": "select/12_Undo_RL_Grime_feat._Jeremih_&_Tory_Lanez.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Undo (feat. Tory Lanez & Jeremih)",
+      "artist": "RL Grime",
+      "has_synced": true,
+      "path": "select/13_Undo_(feat._Tory_Lanez_&_Jeremih)_RL_Grime.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Undo",
+      "artist": "COOL JOKE",
+      "has_synced": true,
+      "path": "select/14_Undo_COOL_JOKE.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Never Undo - Yimino Remix",
+      "artist": "Morcheeba feat. Yimino",
+      "has_synced": false,
+      "path": "select/15_Never_Undo_-_Yimino_Remix_Morcheeba_feat._Yimino.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Never Undo (Yimino Remix)",
+      "artist": "Morcheeba Yimino",
+      "has_synced": false,
+      "path": "select/16_Never_Undo_(Yimino_Remix)_Morcheeba_Yimino.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Undo",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/pl_01_Undo_Björk.txt"
+    }
+  ]
+}
